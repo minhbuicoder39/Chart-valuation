@@ -33,6 +33,5 @@ wheels/
 .LSOverride
 
 # Data files
-*.csv
 VALUATION.csv
-VALUATION_cleaned.csv
+# Allow VALUATION_cleaned.csv to be tracked
