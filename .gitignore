@@ -34,3 +34,5 @@ wheels/
 
 # Data files
 *.csv
+VALUATION.csv
+VALUATION_cleaned.csv
